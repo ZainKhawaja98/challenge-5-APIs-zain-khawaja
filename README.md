@@ -1,25 +1,17 @@
 # challenge-5-APIs-zain-khawaja
+https://zainkhawaja98.github.io/challenge-5-APIs-zain-khawaja/
 
 ## Description
-
+The purpose of this website is to create a calendar application that allows a user to type information into a time block and save it for future use. This website is useful to keep track of your day to day schedule and allows changes to be made instantly. It solves the problem of not being organized with important things that have to be done during the day by a certain time. I learned how to work with APIs such as Moment and JQuery.
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Installation
 
 N/A
 
 ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+to use the website, type in infomation into any hour and click the save button. When the page is refreshed, the information will remain and will only be removed when deleted. It is organized by color so any hours that are in the past are in grey, hours in the present are red, and future hours are in green.
+![alt text](assets/images/website.png)
 
 # Credits
 
